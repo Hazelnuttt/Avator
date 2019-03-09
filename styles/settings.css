@@ -1,0 +1,213 @@
+/*.container{*/
+  /*margin-top:90px ;*/
+/*}*/
+
+/*.navbar{*/
+  /*margin-bottom: 0;*/
+/*}*/
+
+/*.top img{*/
+  /*width: 1265px;*/
+/*}*/
+
+.fixtop{
+  position: fixed;
+  padding-top: 90px;
+}
+
+.top{
+  height: 90px;
+  width: 100%;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-image: url("../images/1400.jpg")
+}
+
+
+div .col-lg-8 {
+  padding-left: 0;
+  /*-webkit-box-shadow: black;*/
+  /*不行*/
+}
+
+.shadow{
+  background-color: #bce8f1;
+  border-radius: 10px;
+}
+
+.psideby{
+  height: 300px;
+  padding-left: 0;
+  margin-right: 0;
+
+}
+.donghua{
+  height: 135px;
+}
+
+.dh-32{
+  border-radius: 50%;
+  padding-top: 30px;
+  padding-left: 50px;
+}
+
+.glyphicon-search{
+  padding-top: 10px;
+}
+
+.form-control{
+  margin-top: 5px;
+}
+
+li#divide{
+  padding-top: 10px;
+}
+
+.dropdown:hover .dropdown-menu {
+  display: block;
+}
+
+.col-lg-3 a:hover .yj ,
+li a:hover img
+{
+  border: 1px solid red;
+}
+
+.avator img {
+  border-radius: 50%;
+}
+
+#user-info{
+  width: 300px;
+}
+
+.bl{
+  background: #74ebe5;
+}
+
+.infopart{
+  position: relative;
+  margin-left: 64px;
+  margin-right: 64px;
+  width: 100%;
+  height: auto;
+  /*border: 1px solid red;*/
+
+}
+.lesson1{
+  clear: both;
+  margin-bottom: 32px;
+}
+
+.lesson2{
+  position: relative;
+  background-color: #eeeeee;
+  height: 500px;
+}
+.lesson3{
+  position: relative;
+  height: 500px;
+}
+
+.les-tit{
+  padding-top: 32px;
+  margin-bottom: 32px;
+}
+.tea4{
+  height: 500px;
+}
+
+.bg{
+  height: 650px;
+  width: 100%;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-image: url("../images/teabg.jpg");
+}
+
+
+
+.tea-info{
+  margin-top: 100px;
+  background-color: white;
+  border-radius: 10px;
+}
+
+.tavator > a >img{
+  border-radius: 500px;
+}
+.tavator{
+  /*border-radius: 50%;//有问题 有坑*/
+  padding-left: 50px;
+  padding-top: 20px;
+}
+
+.les-info{
+  background-color: #bce8f1;
+  position: absolute;
+  margin-left: 284px;
+  margin-bottom:130px;
+  width: 700px;
+  height: 300px;
+}
+
+.menu-info{
+  margin-top: 30px;
+  padding-left: 10px;
+}
+
+
+/*.more{*/
+  /*position: absolute;*/
+  /*padding-left: 1200px;*/
+  /*padding-top: 0;*/
+/*}*/
+
+.po{
+  margin-left: 64px;
+  margin-right: 64px;
+}
+
+.yj{
+  border-radius: 10px;
+}
+.pdz{
+  padding-left: 0;
+  padding-right: 0;
+}
+
+.footer{
+  margin-top: 180px;
+}
+
+/*图片展示效果 + hover下拉菜单*/
+#list .nav > li > a {
+  position: relative;
+  display: block;
+  padding: 10px 15px;
+  height: 60px;
+}
+
+#list .nav > li > a:hover,
+#list .nav > li > a:focus {
+  text-decoration: none;
+  background-color: lightgrey;
+  margin-left: 20px;
+  padding: 10px;
+  height: 60px;
+}
+
+.tavator > a:hover > img{
+  border-radius: 500px;
+  width: 55px;
+  height: 55px;
+}
+
+
+
+
+
+
+
+
+
