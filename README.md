@@ -5,8 +5,8 @@
 + clear
 + padding/margin/grid system
 + position
-- absolute
-- relative
+ - absolute
+ - relative
 + background-image
 ```
    height: 90px;
@@ -25,4 +25,8 @@
 + hover dropdown(left side)
 + css(margin/padding) layout
 + auth-person
-+ animation(fail)
++ animation(fail) height: 90px;
+                   width: 100%;
+                   background-size: 100% 100%;
+                   background-repeat: no-repeat;
+                   background-image: url("../images/1400.jpg")
